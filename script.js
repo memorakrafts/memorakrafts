@@ -1,4 +1,4 @@
-const IMG={"01": "assets/hamper-01.jpg", "02": "assets/hamper-02.jpg", "03": "assets/hamper-03.jpg", "04": "assets/hamper-04.jpg", "05": "assets/hamper-05.jpg", "06": "assets/hamper-06.jpg", "07": "assets/hamper-07.jpg", "08": "assets/hamper-08.jpg", "09": "assets/hamper-09.jpg", "10": "assets/hamper-10.jpg", "11": "assets/hamper-11.jpg", "12": "assets/hamper-12.jpg", "13": "assets/hamper-13.jpg"};
+const IMG={"01": "hamper-01.jpg", "02": "hamper-02.jpg", "03": "hamper-03.jpg", "04": "hamper-04.jpg", "05": "hamper-05.jpg", "06": "hamper-06.jpg", "07": "hamper-07.jpg", "08": "hamper-08.jpg", "09": "hamper-09.jpg", "10": "hamper-10.jpg", "11": "hamper-11.jpg", "12": "hamper-12.jpg", "13": "hamper-13.jpg"};
 const hampers=[
  ["01","Festive Copper Hamper","festive","Festive"],
  ["02","Executive Diary Hamper","corporate","Corporate"],
